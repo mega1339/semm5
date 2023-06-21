@@ -1,1 +1,2 @@
-# semm5
+gcc main.c 5.1.c
+./a.exe
